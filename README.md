@@ -1,3 +1,6 @@
+![wirvsVirus](https://github.com/wvvSupermarkt/wvvSupermarkt/blob/master/wvv.png)
+
+This repository is part of the wirVsVirus Hackathon and related to [Livelane](https://github.com/wvvSupermarkt/wvvSupermarkt)
 # WifiDeviceCounter
 Counting Wifi clients with a raspberry
 
