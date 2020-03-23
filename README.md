@@ -1,4 +1,4 @@
-![wirvsVirus](https://github.com/wvvSupermarkt/wvvSupermarkt/blob/master/wvv.png)
+![wirvsVirus](https://user-images.githubusercontent.com/37160523/77251754-8010f580-6c50-11ea-9b78-f5ce3a203313.png)
 
 This repository is part of the wirVsVirus Hackathon and related to [Livelane](https://github.com/wvvSupermarkt/wvvSupermarkt)
 # WifiDeviceCounter
